@@ -11,8 +11,8 @@ For this exercise, you'll be taking inspiration from a pair of board games,
 that is inspired by them. Please start by watching the following two videos so
 that you can understand what the games are about.
 
-  <http://www.youtube.com/watch?v=f6Prr7iSt58>
-  <http://www.youtube.com/watch?v=S6YMCVg2_Ak>
+  * <http://www.youtube.com/watch?v=f6Prr7iSt58>
+  * <http://www.youtube.com/watch?v=S6YMCVg2_Ak>
 
 The guidelines below describe what you're expected to do for this assignment.
 
